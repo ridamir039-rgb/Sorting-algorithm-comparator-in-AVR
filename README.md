@@ -1,5 +1,4 @@
 # Sorting-algorithm-comparator-in-AVR
-# Sorting Algorithm Comparator
 > AVR Assembly implementation of Bubble Sort, Selection Sort, and Insertion Sort on ATmega32 microcontroller
 
 ---

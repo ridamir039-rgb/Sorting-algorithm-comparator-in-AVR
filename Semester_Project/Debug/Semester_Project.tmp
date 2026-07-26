@@ -1,0 +1,57 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\Debug\Semester_Project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Semester_Project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Semester_Project.map</FILE>
+  <FILE>Semester_Project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <array><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>8</LINE></array>
+  <temp_arr><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>9</LINE></temp_arr>
+  <MAIN><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>17</LINE></MAIN>
+  <LOAD_ARRAY><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>40</LINE></LOAD_ARRAY>
+  <BUBBLE_SORT><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>72</LINE></BUBBLE_SORT>
+  <SELECTION_SORT><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>116</LINE></SELECTION_SORT>
+  <INSERTION_SORT><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>198</LINE></INSERTION_SORT>
+  <DONE><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>32</LINE></DONE>
+  <BS_OUTER><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>75</LINE></BS_OUTER>
+  <BS_DONE><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>107</LINE></BS_DONE>
+  <BS_INNER><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>83</LINE></BS_INNER>
+  <BS_NEXT_PASS><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>103</LINE></BS_NEXT_PASS>
+  <BS_NO_SWAP><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>99</LINE></BS_NO_SWAP>
+  <SS_OUTER><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>119</LINE></SS_OUTER>
+  <SS_DONE><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>189</LINE></SS_DONE>
+  <SS_NO_CARRY1><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>131</LINE></SS_NO_CARRY1>
+  <SS_INNER><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>137</LINE></SS_INNER>
+  <SS_DO_SWAP><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>159</LINE></SS_DO_SWAP>
+  <SS_NO_CARRY2><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>146</LINE></SS_NO_CARRY2>
+  <SS_NO_NEW_MIN><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>155</LINE></SS_NO_NEW_MIN>
+  <SS_NEXT><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>185</LINE></SS_NEXT>
+  <SS_NC3><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>169</LINE></SS_NC3>
+  <SS_NC4><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>178</LINE></SS_NC4>
+  <IS_OUTER><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>201</LINE></IS_OUTER>
+  <IS_DONE><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>262</LINE></IS_DONE>
+  <IS_NC1><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>211</LINE></IS_NC1>
+  <IS_INNER><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>217</LINE></IS_INNER>
+  <IS_INSERT><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>247</LINE></IS_INSERT>
+  <IS_NC2><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>227</LINE></IS_NC2>
+  <IS_NC3><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>241</LINE></IS_NC3>
+  <IS_NC4><FILE>C:\Users\User\Documents\Atmel Studio\7.0\Semester_Project\Semester_Project\main.asm</FILE><LINE>256</LINE></IS_NC4>
+ </LABELS>
+</ASSEMBLER_INFO>
